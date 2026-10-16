@@ -42,7 +42,7 @@ The schematic and board files are in [KiCad/](KiCad/). Open `BCD Decade Counter.
 - **Breadboard:** built and tested.
 - **Schematic and PCB layout:** completed.
 - **ERC/DRC:** passed during my design work.
-- **Fabricated and assembled PCB:** **not yet tested**; fabrication was still pending when I documented the project.
+
 
 I'm leaving the project as it is for now. It was a small circuit, but it was an important step in going from *connecting components* to designing the board those components sit on.
 
